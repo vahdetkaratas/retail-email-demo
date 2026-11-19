@@ -14,7 +14,7 @@ Open `index.html` in a modern browser. No build tools, package installs, paid se
 1. Create a public repository called `retail-email-demo`.
 2. Upload `index.html`, `email.html`, `README.md` and the complete `assets/` folder.
 3. Open Settings → Pages → Deploy from a branch → `main` / `(root)`.
-4. GitHub Pages provides the live URL. **The project is not published yet.**
+4. GitHub Pages demo: https://vahdetkaratas.github.io/retail-email-demo/
 
 ## Production caveats
 - All images are local relative paths for the browser and GitHub Pages demo. In a real email, replace them with fully-qualified HTTPS URLs hosted on a public image server or email service.
